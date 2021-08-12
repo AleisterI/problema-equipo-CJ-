@@ -1,1 +1,2 @@
-#
+#crear una calculadora de codigo binario en la que tenemos una "bandera blanca", una "bandera levantada" es un 1 y "una abajo" es un 0, y tambien tenemos una bandera roja
+que son las respuestas
