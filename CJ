@@ -2,3 +2,4 @@
 que es un 0, y tambien tenemos la bandera roja
 que son las respuesta, cuando hay como resultado un 1, se levanta una bandera roja, cuando ambas banderas blancas esten abajo 
 o arriba se levanta una "bandera roja grande"
+el objetivo es hacer un circuito sumador 
