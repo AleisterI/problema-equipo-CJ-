@@ -1,2 +1,4 @@
-#crear una calculadora de codigo binario en la que tenemos una "bandera blanca", una "bandera levantada" es un 1 y "una abajo" es un 0, y tambien tenemos una bandera roja
-que son las respuesta, cuando se hay como resultado un 1, se levanta una bandera roja, cuando ambas banderas blancas esten abajo o arriba se levanta una "bandera roja grande"
+#crear una calculadora de codigo binario en la que tenemos una "bandera blanca" y tiene sus deribados, una "bandera blanca levantada" es un 1 y "una bandera blanca abajo"
+que es un 0, y tambien tenemos la bandera roja
+que son las respuesta, cuando hay como resultado un 1, se levanta una bandera roja, cuando ambas banderas blancas esten abajo 
+o arriba se levanta una "bandera roja grande"
